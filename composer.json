@@ -1,0 +1,19 @@
+{
+    "name": "naderm1991/converter",
+    "description": "perform unit conversion",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "naderm1991",
+            "email": "nadermohammad9@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Expandcart\\UnitConversion\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
